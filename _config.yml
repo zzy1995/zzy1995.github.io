@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhenyang Zhang"
   avatar           : "profile.png"
-  bio              : "Math PhD candidate at UC Davis"
+  bio              : "PhD candidate in Mathematics at UC Davis"
   location         : "Davis, California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/zzy1995"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/zhenyang-zhang-36233765/"
+  orcid            : "https://orcid.org/0000-0002-5830-3448"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
