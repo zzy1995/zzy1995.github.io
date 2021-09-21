@@ -8,4 +8,4 @@ date: 2020-01-12
 location: "Davis, California"
 ---
 
-Graduate course in discrete optimization, course [link](https://www.math.ucdavis.edu/~deloera/TEACHING/MATH258B/).
+Graduate course in discrete optimization, course link attached [here](https://www.math.ucdavis.edu/~deloera/TEACHING/MATH258B/).
