@@ -1,7 +1,7 @@
 ---
 title: "Diameters of Cocircuit Graphs of Oriented Matroids: an update"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-06-16-paper-title-number-1
 excerpt: 'Collaboration with Ilan Adler, Jesus De Loera and Steven Klee.'
 date: 2020-06-16
 venue: 'Electronic Journal of Combinatorics'
