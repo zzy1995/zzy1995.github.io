@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Enumerative problems for arborescences and monotone paths on polytopes"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2021-08-01-paper-title-number-2
+excerpt: 'Collaboration with Christos Athanasiadis and Jesus De Loera.'
+date: 2021-08-01
+venue: 'Journal of Graph Theory'
+paperurl: 'https://doi.org/10.1002/jgt.22725'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+We study the behavior of the simplex method. Every linear functional induces an orientation on the graph of a polytope. This paper discusses the maximum and minimum numbers of paths and an estimation of number of pivot rules on this directed graph.
+[Download paper here](https://arxiv.org/abs/2002.00999)
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
