@@ -17,5 +17,5 @@ My research lies in Combinatorics and Convex Geometry. Here is a summary of my w
 
 Latest
 =====
-I just finished internship at Pingcap. In the upcomeing fall 2021, I am going to TA for [MAT 150A (Modern Algebra)](https://www.math.ucdavis.edu/~egorskiy/MAT150A-f21/)
+I just finished internship at Pingcap. In the upcomeing fall 2021, I am going to TA for [MAT 150A (Modern Algebra)](https://www.math.ucdavis.edu/~egorskiy/MAT150A-f21/).
 
