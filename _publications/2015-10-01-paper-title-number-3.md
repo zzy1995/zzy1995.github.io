@@ -1,7 +1,7 @@
 ---
 title: "(Machine) Learning to Improve the Empirical Performance of Discrete Algorithms"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2020-10-01-paper-title-number-3
 excerpt: 'Collaboration with Imran Adham and Jesus De Loera.'
 date: 2020-10-01
 venue: 'Preprint'
