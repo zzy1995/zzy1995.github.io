@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-06-16-paper-title-number-1
 excerpt: 'Collaboration with Ilan Adler, Jesus De Loera and Steven Klee.'
 date: 2020-06-16
-venue: 'Preprint'
+venue: 'Arxiv'
 paperurl: 
 
 ---
