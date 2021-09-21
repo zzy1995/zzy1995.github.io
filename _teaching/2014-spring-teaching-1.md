@@ -3,18 +3,9 @@ title: "MATH 258B"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of California, Davis"
+date: 2020-01
+location: "Davis, California"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Graduate course in discrete optimization, course [link](https://www.math.ucdavis.edu/~deloera/TEACHING/MATH258B/).
