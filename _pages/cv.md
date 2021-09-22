@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A detailed CV available here:.
+A detailed CV available [here](https://zzy1995.github.io/files/main.pdf).
 
 Education
 ======
