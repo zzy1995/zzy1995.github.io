@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-This is Zhenyang Zhang's personal website. I am a PhD candidate in Mathematics advised by Professor [Jesus De Loera](https://www.math.ucdavis.edu/~deloera/).
+This is Zhenyang Zhang's personal website. I am a PhD candidate in Mathematics advised by Professor [Jesus De Loera](https://www.math.ucdavis.edu/~deloera/). ([Hog contest Hall of famer](https://hog-contest.cs61a.org/winners))
 
 Research Interest
 ======
