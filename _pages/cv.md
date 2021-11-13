@@ -15,7 +15,7 @@ Education
 ======
 * B.A. in Applied Mathematics, University of California, Berkeley, 2013-2017
 * B.A. in Statistics, University of California, Berkeley, 2013-2017
-* Ph.D in Mathematics, University of California, Davis, 2017-2022(Expected)
+* Ph.D in Mathematics, University of California, Davis, 2017-June 2022 (Expected)
 
 Work experience
 ======
@@ -23,4 +23,3 @@ Work experience
   * Pingcap
   * Duties included: Write paper draft on sharding strategy. Modeling to avoid hotspots.
   * Supervisor: Dongxu (Ed) Huang
-
